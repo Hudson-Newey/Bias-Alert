@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Bias-Alert-(BETA)",
+    "version": "0.0.1",
+    "description": "Gives the user a notification if a website contains any pre-determined bias",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "classifications.js",
+                "notification.js",
+                "chrome.js"
+            ]
+        }
+    ]
+}

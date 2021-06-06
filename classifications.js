@@ -1,0 +1,101 @@
+bias_classifications = `{
+    "left": [
+        "edition.cnn.com",
+        "www.huffpost.com",
+        "people.com",
+        "slate.com",
+        "www.msn.com",
+        "www.dailyrecord.com",
+        "!!! follows all left aligned news stories !!!"
+    ],
+    "leaning_left": [
+        "www.washingtonpost.com",
+        "news.yahoo.com",
+        "www.cbc.ca",
+        "www.ndtv.com",
+        "www.cbsnews.com",
+        "www.mirror.co.uk",
+        "abcnews.go.com",
+        "www.independent.co.uk",
+        "www.smh.com.au",
+        "www.hindustantimes.com",
+        "www.nytimes.com",
+        "www.cbsnews.com",
+        "www.stuff.co.nz",
+        "www.nydailynews.com",
+        "www.staradvertiser.com",
+        "www.bustle.com",
+        "www.npr.org",
+        "hollywoodlife.com",
+        "abc11.com",
+        "www.buzzfeed.com",
+        "www.newsweek.com",
+        "www.nbcnews.com",
+        "www.nbclosangeles.com",
+        "www.mercurynews.com",
+        "www.tmz.com",
+        "whdh.com",
+        "bangordailynews.com",
+        "www.koco.com",
+        "www.buzzfeednews.com",
+        "www.motherjones.com",
+        "wgntv.com",
+        "tucson.com",
+        "www.insider.com",
+        "www.today.com",
+        "www.mprnews.org",
+        "www.bloomberg.com",
+        "www.startribune.com",
+        "www.nbcnewyork.com",
+        "www.sfchronicle.com",
+        "www.nhregister.com",
+        "www.theguardian.com",
+        "www.aljazeera.com",
+        "!!! follows all news stories with a left world view !!!"
+    ],
+    "leaning_right": [
+        "www.washingtontimes.com",
+        "www.independent.ie",
+        "mynorthwest.com",
+        "news.com.au",
+        "www.reviewjournal.com",
+        "www.aninews.in",
+        "www.republicworld.com",
+        "www.kiiitv.com",
+        "nationalpost.com",
+        "financialpost.com",
+        "www.theaustralian.com.au",
+        "www.straitstimes.com",
+        "www.telegraph.co.uk",
+        "www.itv.com",
+        "www.wsj.com",
+        "!!! follows all news stories with a right world view !!!"
+    ],
+    "right": [
+        "www.foxnews.com",
+        "dailywire.com",
+        "www.washingtonexaminer.com",
+        "www.the-sun.com",
+        "www.rt.com",
+        "dailycaller.com",
+        "www.breitbart.com",
+        "www.express.co.uk",
+        "www.dailymail.co.uk",
+        "!!! follows all right aligned news stories !!!"
+    ],
+    "no_bias": [
+        "www.9news.com",
+        "!!! news source does not typically contain bias !!!"
+    ],
+    "extreme": [
+        "!!! only follows news stories with the intention of dis-crediting oposing partys (left aligned) !!!"
+    ],
+    "extreme": [
+        "!!! sources which aim to radicalise a user !!!"
+    ],
+    "satirical": [
+        "www.theonion.com",
+        "babylonbee.com",
+        "www.betootaadvocate.com"
+    ]
+}`;
